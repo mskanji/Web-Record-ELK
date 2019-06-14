@@ -17,4 +17,4 @@ logstash -f logstashETL.conf
 
 
 
-![Data Clustered]()
+![Dashboard](https://github.com/mskanji/elastic/blob/master/KIBANA/dashboard.PNG)
