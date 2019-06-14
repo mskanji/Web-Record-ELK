@@ -13,7 +13,7 @@ ELK give as the ability to analyze any data set by using the searching/aggregati
 logstash -f logstashETL.conf 
 ````
 
-#Visualisation (Hit Map ) 
+# Visualisation (Hit Map ) 
 
 
 
