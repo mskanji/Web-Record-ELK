@@ -8,7 +8,7 @@ ELK give as the ability to analyze any data set by using the searching/aggregati
 * Kibana 7.1.1
 
 
-# Runing project Logstach file. 
+# Runing Logstach file. 
 ````
 logstash -f logstashETL.conf 
 ````
