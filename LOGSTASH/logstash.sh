@@ -3,4 +3,4 @@
 
 
 
-ogstash -f /elk/logstash/logstadhETL.conf
+logstash -f /elk/logstash/logstadhETL.conf
